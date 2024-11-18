@@ -1,0 +1,5 @@
+outs:
+- md5: 8ea352478eadb2edd027e85f7a3ad354
+  size: 200000128
+  hash: md5
+  path: dataset.npy
